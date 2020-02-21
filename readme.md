@@ -6,7 +6,7 @@ Get the raw data from OV7670 camera module using atmega328 (nano).
 | Component | Description | 
 | --- | --- |
 | Arduino Nano | Atmega328p with old bootloader is used |
-| OV7670 |  [Camera module]https://www.voti.nl/docs/OV7670.pdf |
+| OV7670 |  [Camera module](https://www.voti.nl/docs/OV7670.pdf) |
 
 ### Pinout
 
@@ -25,4 +25,4 @@ GND - GND
 PWDN - GND
 ```
 
-For More Information Please refer to this documentation [indrekluuk](https://github.com/indrekluuk/LiveOV7670)
+For More Information refer to this documentation [indrekluuk](https://github.com/indrekluuk/LiveOV7670)
